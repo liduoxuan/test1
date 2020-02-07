@@ -6,6 +6,7 @@ public class Test1 {
 		System.out.println(b);
 //aaaa
 		//sss
+		///wwww
 	}
 
 }
